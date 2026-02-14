@@ -7,6 +7,5 @@
   "host_permissions": ["*://*.zepto.com/*", "*://*.zeptonow.com/*"],
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "icon.png"
   }
 }
